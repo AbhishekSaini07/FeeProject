@@ -1,1 +1,59 @@
-
+ [
+    {
+      'id': '1',
+      'name': 'Pizza',
+      'imageURL':
+          'https://th.bing.com/th?id=OIP.MfhIfzrC6x6T1-szQkjtCgHaEo&w=316&h=197&c=8&rs=1&qlt=90&o=6&dpr=1.4&pid=3.1&rm=2',
+      'description': 'Delicious pizza with a variety of toppings',
+      'price': 10.99,
+    },
+    {
+      'id': '2',
+      'name': 'Burgers',
+      'imageURL':
+          'https://th.bing.com/th?id=OIP.pUqX9ysdiglqUspiQYwylQHaEn&w=316&h=197&c=8&rs=1&qlt=90&o=6&dpr=1.4&pid=3.1&rm=2',
+      'description': 'Juicy burgers with various options',
+      'price': 8.99,
+    },
+    {
+      'id': '3',
+      'name': 'Sandwiches',
+      'imageURL':
+          'https://th.bing.com/th?id=OIP.ThXY4DCHV_mRI59eeCUMtQHaE8&w=306&h=204&c=8&rs=1&qlt=90&o=6&dpr=1.4&pid=3.1&rm=2',
+      'description': 'Fresh sandwiches made with quality ingredients',
+      'price': 6.99,
+    },
+    {
+      'id': '4',
+      'name': 'Salads',
+      'imageURL':
+          'https://th.bing.com/th?id=OIP.xiJ8WAb_SxNAaOysCw3KkwHaE6&w=306&h=203&c=8&rs=1&qlt=90&o=6&dpr=1.4&pid=3.1&rm=2',
+      'description': 'Healthy and refreshing salad options',
+      'price': 7.99,
+    },
+    {
+      'id': '5',
+      'name': 'Pasta Dishes',
+      'imageURL':
+          'https://th.bing.com/th?id=OIP.NU-MDUBuddXfyzo8L0F7hwHaDn&w=349&h=170&c=8&rs=1&qlt=90&o=6&dpr=1.4&pid=3.1&rm=2',
+      'description': 'Authentic pasta dishes with flavorful sauces',
+      'price': 9.99,
+    },
+    {
+      'id': '6',
+      'name': 'Thai Curry',
+      'imageURL':
+          'https://th.bing.com/th?id=OIP.VwzdCh5Zc0McbY7RoGiUqAHaFj&w=288&h=216&c=8&rs=1&qlt=90&o=6&dpr=1.4&pid=3.1&rm=2',
+      'description': 'Spicy and aromatic Thai curry with choice of protein',
+      'price': 11.99,
+    },
+    {
+      'id': '7',
+      'name': 'Tiramisu',
+      'imageURL':
+          'https://www.bing.com/th?id=OIP.8-hIBxuk2aR5lmY7CHN38wHaE7&w=146&h=120&c=8&rs=1&qlt=90&o=6&dpr=1.4&pid=3.1&rm=2',
+      'description':
+          'Decadent Italian dessert with layers of coffee-soaked ladyfingers and mascarpone cream',
+      'price': 6.99,
+    },
+  ]
